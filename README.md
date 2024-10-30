@@ -1,4 +1,4 @@
 ### Hello there!
 - KPI graduate
-- Member of Metarhiae
+- Member of Metarhia
 - Using: Node.js, go
