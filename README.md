@@ -1,19 +1,25 @@
-# 👋 Hey, I'm Illya Kaminskyi
+# 👋 Hey, I'm Illia Kaminskyi
 
-🚀 Full-Stack Engineer | Team Lead  
-🎓 KPI Graduate  
-🧠 Member of Metarhia  
+🚀 Senior Full-Stack Engineer & Team Lead  
+🏗️ High-Load Systems • Cloud • AI  
+🎓 Computer Science @ KPI  
+🧠 Member of Metarhia
 
 ---
 
 ## 🧩 About Me
 
-I'm a full-stack developer focused on building scalable, high-load systems and modern web/mobile applications.
+Senior Full-Stack Engineer with 5+ years of commercial experience building and modernizing production systems across backend, frontend, mobile, cloud infrastructure, and DevOps.
 
-- 🏗️ Team Lead @ Subjektiv.art  
-- ⚡ Strong in async systems & architecture  
-- 🧠 Fast learner — can adapt to any stack  
-- 🎯 Passionate about product + engineering
+Currently working at **Subjektiv.art**, where I combine hands-on engineering with technical leadership.
+
+- 🏗️ Senior Full-Stack Engineer & Team Lead
+- ⚡ High-load, distributed & event-driven systems
+- ☁️ Cloud architecture, Kubernetes & infrastructure
+- 🔄 Legacy modernization & large-scale refactoring
+- 🤖 AI / LLM integrations & agentic development
+- 📱 Web, backend & cross-platform mobile development
+- 👥 Technical leadership, mentoring & architecture decisions
 
 ---
 
@@ -22,87 +28,94 @@ I'm a full-stack developer focused on building scalable, high-load systems and m
 ### 💻 Languages
 - JavaScript / TypeScript
 - Go
-- C
 - Python
-- Swift
-- Rust
+- C
 
-### 🎨 Frontend
+### 🎨 Frontend & Mobile
 - React / Next.js
-- Vue / Nuxt
-- Zustand / Redux
+- Vue.js
+- React Native / Expo
 - PWA
 
 ### ⚙️ Backend
-- Node.js (Fastify, Express, Nest, Impress)
-- Go (pure services)
+- Node.js
+- Fastify / NestJS / Express / Impress
+- Bun / FastAPI
 - PostgreSQL / MongoDB
 - Redis / RabbitMQ
-- Firebase / Firestore
+- Keycloak
+- REST APIs
+- Stripe
 
-### 🚀 DevOps
-- Docker
-- Kubernetes
-- Nginx
-- CI/CD
-- GitHub Actions
-- AWS / GCP
+### ☁️ Cloud & DevOps
+- Kubernetes / Docker
+- GCP / AWS
+- Terraform
+- GitHub Actions / CI/CD
+- Linux / Nginx
+- Cloudflare
+- DNS / SSL/TLS
+- S3 / MinIO
 
-### 📱 Mobile
-- Expo (React Native)
-- Swift (iOS basics)
-- App Store deployment
-- In-app purchases (Stripe / RevenueCat)
-- Mobile-first architecture
+### 🏛️ Architecture
+- Distributed Systems
+- Microservices
+- Modular Monoliths
+- Event-Driven Architecture
+- High-Load Systems
+- Async & Parallel Programming
 
----
-
-## 📦 Experience
-
-### 🧠 Subjektiv.art (2023 — now)
-**Team Lead / Full-Stack Developer**
-
-- Art marketplace & social network
-- Interactive experiences & games
-- Scalable backend architecture
-- AI integrations & rendering systems
-
----
-
-### ⚡ Handy.ai (2021 — 2023)
-**Full-Stack Developer → Team Lead**
-
-- Low-code / No-code platform
-- Job marketplace
-- PWA for law/police instructions
-- Led team & architecture decisions
+### 🤖 AI Engineering
+- LLM Integration
+- Agentic Development
+- OpenAI Codex
+- Claude Code
+- MCP
+- AI-assisted Software Development
 
 ---
 
-## 🧪 Projects
+## 💼 Experience
 
-- ⚙️ Task scheduler library
-- 🤖 Multi-platform chatbot system
-- 🐾 Social app for sharing cute animals
-- 🏪 Web + mobile system for small/medium/large business
-- 🔗 Lightweight RPC library for microservices
-- 🎮 Interactive games
+### 🎨 Subjektiv.art — Senior Full-Stack Engineer
+**2023 — Present**
+
+Building and modernizing an art marketplace and social platform across the entire engineering stack.
+
+- Modernized a large legacy platform without service interruption
+- Reduced infrastructure costs by **3×+**
+- Migrated production infrastructure from **AWS to GCP**
+- Consolidated **13 repositories into a monorepo**
+- Designed and maintained Kubernetes infrastructure and CI/CD
+- Designed modern backend architecture while gradually replacing legacy services
+- Built social feeds, recommendation systems and interactive experiences
+- Integrated AI-powered artwork price prediction
+- Built cross-platform mobile experiences with Expo
+- Led and coordinated a team of engineers
+
+### ⚡ Handy.ai — Full-Stack Developer
+**2021 — 2023**
+
+- Built a low-code/no-code platform for conversational assistants and automation
+- Developed Telegram, WhatsApp and Viber chatbot systems
+- Worked on a job-search platform with web and chatbot interfaces
+- Built a Firebase-synchronized PWA for legal and police documentation
+- Led engineering discussions, code reviews and mentoring
 
 ---
 
-## 🧠 Engineering Principles
+## 🧠 Engineering Focus
 
-- SOLID / TDD / DDD
-- FP & OOP
-- Async & parallel programming
-- Reactive systems
-- Clean architecture
+I enjoy working on problems involving:
 
-## 🤖 AI & LLM Engineering
-
-- OpenAI Codex 
-- Claude Code 
-
+- Distributed & high-load systems
+- Backend and system architecture
+- Async & event-driven systems
+- Performance & scalability
+- Cloud infrastructure
+- Developer experience & CI/CD
+- AI-assisted and agentic software development
+- Legacy modernization
 
 ---
 
@@ -111,4 +124,3 @@ I'm a full-stack developer focused on building scalable, high-load systems and m
 - GitHub: https://github.com/AliusDieMorietur
 - Telegram: https://t.me/iakaminskij
 - Email: iakaminskij@gmail.com
-
