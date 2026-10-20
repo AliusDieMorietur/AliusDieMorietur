@@ -1,19 +1,19 @@
 # 👋 Hey, I'm Illia Kaminskyi
 
-🚀 Senior Full-Stack Engineer & Tech Lead  
+🚀 Senior Full-Stack Engineer & Tech Lead (2-4 members)  
 🏗️ High-Load Systems • Cloud • AI  
-🎓 Computer Science @ KPI  
+🎓 B.Sc. Computer Science @ NTUU "Igor Sikorsky Kyiv Polytechnic Institute"  
 🧠 Member of Metarhia
 
 ---
 
 ## 🧩 About Me
 
-Senior Full-Stack Engineer with 5+ years of commercial experience building and modernizing production systems across backend, frontend, mobile, cloud infrastructure, and DevOps.
+Senior Full-Stack Engineer with 5+ years of commercial software development (8+ years of software engineering including personal & open source work) building and modernizing production systems across backend, frontend, mobile, cloud infrastructure, and DevOps.
 
 Currently working at **Subjektiv.art**, where I combine hands-on engineering with technical leadership.
 
-- 🏗️ Senior Full-Stack Engineer & Tech Lead
+- 🏗️ Senior Full-Stack Engineer & Tech Lead (2-4 members)
 - ⚡ High-load, distributed & event-driven systems
 - ☁️ Cloud architecture, Kubernetes & infrastructure
 - 🔄 Legacy modernization & large-scale refactoring
@@ -68,8 +68,9 @@ Currently working at **Subjektiv.art**, where I combine hands-on engineering wit
 ### 🤖 AI Engineering
 - LLM Integration
 - Agentic Development
-- OpenAI Codex
 - Claude Code
+- OpenAI Codex
+- Pi
 - MCP
 - AI-assisted Software Development
 
@@ -80,7 +81,7 @@ Currently working at **Subjektiv.art**, where I combine hands-on engineering wit
 ### 🎨 Subjektiv.art — Senior Full-Stack Engineer
 **2023 — Present**
 
-Building and modernizing an art marketplace and social platform across the entire engineering stack.
+Hands-on technical leadership across backend, frontend, mobile, architecture, cloud infrastructure and DevOps.
 
 - Modernized a large legacy platform without service interruption
 - Reduced infrastructure costs by **3×+**
@@ -88,19 +89,20 @@ Building and modernizing an art marketplace and social platform across the entir
 - Consolidated **13 repositories into a monorepo**
 - Designed and maintained Kubernetes infrastructure and CI/CD
 - Designed modern backend architecture while gradually replacing legacy services
-- Built social feeds, recommendation systems and interactive experiences
-- Integrated AI-powered artwork price prediction
-- Built cross-platform mobile experiences with Expo
-- Led and coordinated a team of engineers
+- Created an editor for placing artworks into realistic interior scenes
+- Integrated an AI-powered artwork price prediction system
+- Developed an art-focused social platform with recommendation feeds
+- Built an Expo wrapper and adapted the web frontend for a native experience: a single codebase across all platforms, eliminating significant native technical debt
+- Contributed to interactive training games, including AI-powered poker, and built a scenario editor for training simulations
+- Led and coordinated a team of 2–3 engineers
 
 ### ⚡ Handy.ai — Full-Stack Developer
 **2021 — 2023**
 
-- Built a low-code/no-code platform for conversational assistants and automation
-- Developed Telegram, WhatsApp and Viber chatbot systems
-- Worked on a job-search platform with web and chatbot interfaces
-- Built a Firebase-synchronized PWA for legal and police documentation
-- Led engineering discussions, code reviews and mentoring
+- Developed a low-code/no-code platform for building conversational assistants/bots for Telegram, WhatsApp and Viber and business automation workflows
+- A job-search platform with web and chatbot interfaces
+- Built a PWA synchronized with Firebase and Google Docs for legal and police documentation
+- Led development discussions, code reviews, mentoring and engineering process improvements, coordinated team of 4
 
 ---
 
