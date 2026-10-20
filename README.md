@@ -3,6 +3,7 @@
 🚀 Senior Full-Stack Engineer & Tech Lead (2-4 members)  
 🏗️ High-Load Systems • Cloud • AI  
 🎓 B.Sc. Computer Science @ NTUU "Igor Sikorsky Kyiv Polytechnic Institute"  
+🇺🇦 From Ukraine, based in Chișinău, Moldova  
 🧠 Member of Metarhia
 
 ---
