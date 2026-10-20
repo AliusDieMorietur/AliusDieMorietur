@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Illia Kaminskyi
 
-🚀 Senior Full-Stack Engineer & Team Lead  
+🚀 Senior Full-Stack Engineer & Tech Lead  
 🏗️ High-Load Systems • Cloud • AI  
 🎓 Computer Science @ KPI  
 🧠 Member of Metarhia
@@ -13,7 +13,7 @@ Senior Full-Stack Engineer with 5+ years of commercial experience building and m
 
 Currently working at **Subjektiv.art**, where I combine hands-on engineering with technical leadership.
 
-- 🏗️ Senior Full-Stack Engineer & Team Lead
+- 🏗️ Senior Full-Stack Engineer & Tech Lead
 - ⚡ High-load, distributed & event-driven systems
 - ☁️ Cloud architecture, Kubernetes & infrastructure
 - 🔄 Legacy modernization & large-scale refactoring
