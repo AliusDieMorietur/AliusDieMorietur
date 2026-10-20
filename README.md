@@ -38,7 +38,7 @@ Currently working at **Subjektiv.art**, where I combine hands-on engineering wit
 - PWA
 
 ### ⚙️ Backend
-- Node.js
+- Node.js / Go
 - Fastify / NestJS / Express / Impress
 - Bun / FastAPI
 - PostgreSQL / MongoDB
@@ -89,6 +89,7 @@ Hands-on technical leadership across backend, frontend, mobile, architecture, cl
 - Consolidated **13 repositories into a monorepo**
 - Designed and maintained Kubernetes infrastructure and CI/CD
 - Designed modern backend architecture while gradually replacing legacy services
+- Built a monitoring service in Go
 - Created an editor for placing artworks into realistic interior scenes
 - Integrated an AI-powered artwork price prediction system
 - Developed an art-focused social platform with recommendation feeds
